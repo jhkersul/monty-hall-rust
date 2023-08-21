@@ -1,3 +1,5 @@
+[![Rust](https://github.com/jhkersul/monty-hall-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/jhkersul/monty-hall-rust/actions/workflows/rust.yml)
+
 # Monty Hall Problem in Rust
 
 This is just a curious implementation of [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
